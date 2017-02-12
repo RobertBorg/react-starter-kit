@@ -1,0 +1,17 @@
+{
+  "admin": {
+    "js": "/assets/admin.fd0d0631.chunk.js"
+  },
+  "privacy": {
+    "js": "/assets/privacy.ef785cab.chunk.js"
+  },
+  "about": {
+    "js": "/assets/about.7805b8ea.chunk.js"
+  },
+  "client": {
+    "js": "/assets/client.bd2ae2c9.js"
+  },
+  "vendor": {
+    "js": "/assets/vendor.ea37b1fd.js"
+  }
+}
